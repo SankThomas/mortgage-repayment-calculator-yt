@@ -169,8 +169,8 @@ export default function MortgageCalculator() {
 
               <p className="text-sm leading-6 text-white/75">
                 Your results are shown based on the information you provided. To
-                adjust the results, edit the form and click "Calculate
-                Repayments" again.
+                adjust the results, edit the form and click &quot;Calculate
+                Repayments&quot; again.
               </p>
 
               <div className="rounded-lg border-t-4 border-[#dad830] bg-gray-900 p-6 text-left lg:text-center">
@@ -185,7 +185,7 @@ export default function MortgageCalculator() {
 
                 <div>
                   <p className="mb-2 text-sm text-white/75">
-                    Total you'll repay over the term
+                    Total you&apos;ll repay over the term
                   </p>
                   <p className="text-3xl font-bold text-white">
                     {formatCurrency(totalRepayment)}
@@ -199,8 +199,8 @@ export default function MortgageCalculator() {
                 Results shown here
               </h3>
               <p className="text-sm leading-6 text-white/75">
-                Complete the form and click "Calculate Repayments" to see what
-                your monthly repayments would be.
+                Complete the form and click &quot;Calculate Repayments&quot; to
+                see what your monthly repayments would be.
               </p>
             </div>
           )}
